@@ -1,0 +1,1 @@
+This is the implementation of the last step of project [File Type Analyzer](https://hyperskill.org/projects/64?track=1) from Hyperskill platform.
